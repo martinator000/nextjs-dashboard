@@ -12,7 +12,7 @@
 
  	return data;
  }
-/*
+
 export async function GET() {
   return Response.json({
     message:
@@ -24,4 +24,3 @@ export async function GET() {
   // 	return Response.json({ error }, { status: 500 });
   // }
 }
-*/
